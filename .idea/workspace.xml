@@ -12,6 +12,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -25,6 +27,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/GitHubDesktop.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -52,7 +55,9 @@
       <workItem from="1569786632587" duration="52000" />
       <workItem from="1570825773723" duration="1838000" />
       <workItem from="1570828571861" duration="177000" />
-      <workItem from="1570828759684" duration="959000" />
+      <workItem from="1570828759684" duration="1663000" />
+      <workItem from="1571427387526" duration="629000" />
+      <workItem from="1571500334916" duration="6845000" />
     </task>
     <servers />
   </component>
